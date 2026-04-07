@@ -71,7 +71,7 @@ export function Footer() {
         {/* Bottom */}
         <div className="border-t border-background/10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-background/40">
-            © {new Date().getFullYear()} Sports Tours Hungary Kft. Minden jog fenntartva.
+            © {new Date().getFullYear()} Sports Tours Hungary. Minden jog fenntartva.
           </p>
           <p className="text-xs text-background/40">sportstourshungary.com</p>
         </div>

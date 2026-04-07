@@ -5,7 +5,7 @@ import { Footer } from '@/components/footer'
 export const metadata = {
   title: 'Adatvédelmi irányelvek – Sports Tours Hungary',
   description:
-    'Tájékoztatás a Sports Tours Hungary Kft. adatkezelési gyakorlatáról, az Ön jogairól és az adatok védelméről.',
+    'Tájékoztatás a Sports Tours Hungary adatkezelési gyakorlatáról, az Ön jogairól és az adatok védelméről.',
 }
 
 const lastUpdated = '2026.'
@@ -13,7 +13,7 @@ const lastUpdated = '2026.'
 const sections = [
   {
     title: '1. Adatkezelő adatai',
-    content: `Az adatkezelő: Sports Tours Hungary Kft. (továbbiakban: Társaság). Kapcsolat: info@sportstourshungary.com | sportstourshungary.com.`,
+    content: `Az adatkezelő: Sports Tours Hungary (továbbiakban: Társaság). Kapcsolat: info@sportstourshungary.com | sportstourshungary.com.`,
   },
   {
     title: '2. Kezelt adatok és céljuk',
@@ -62,7 +62,7 @@ export default function PrivacyPage() {
         <section className="py-16 bg-background">
           <div className="max-w-3xl mx-auto px-4 sm:px-6">
             <p className="text-muted-foreground leading-relaxed mb-10">
-              A Sports Tours Hungary Kft. elkötelezett az Ön személyes adatainak védelme iránt. Ez a
+              A Sports Tours Hungary elkötelezett az Ön személyes adatainak védelme iránt. Ez a
               tájékoztató ismerteti, hogy milyen adatokat gyűjtünk, hogyan használjuk azokat, és
               milyen jogok illetik meg Önt.
             </p>

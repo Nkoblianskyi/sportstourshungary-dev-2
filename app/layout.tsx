@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   description:
     'Fedezze fel Magyarország természeti kincseit kerékpáros, gyalogtúra, futó és kalandtúra programjainkkal. Egyedi útvonalak, szakértő vezetők, felejthetetlen élmények.',
   keywords: 'kerékpáros túra, gyalogtúra, futótúra, természetjárás, Magyarország, aktív turizmus',
-  authors: [{ name: 'Sports Tours Hungary Kft.' }],
+  authors: [{ name: 'Sports Tours Hungary' }],
   metadataBase: new URL('https://sportstourshungary.com'),
   openGraph: {
     type: 'website',

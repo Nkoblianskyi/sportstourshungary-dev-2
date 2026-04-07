@@ -52,7 +52,7 @@ export default function ContactPage() {
                   Elérhetőségek
                 </p>
                 <h2 className="font-serif text-2xl font-bold text-foreground mb-4">
-                  Sports Tours Hungary Kft.
+                  Sports Tours Hungary.
                 </h2>
                 <p className="text-muted-foreground text-sm leading-relaxed">
                   Természetjáró programok szervezése Magyarország egész területén. Kérdéseivel
