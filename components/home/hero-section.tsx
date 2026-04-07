@@ -64,7 +64,7 @@ export function HeroSection() {
           className="text-background/75 text-lg sm:text-xl leading-relaxed mb-10 max-w-2xl mx-auto"
           style={mounted ? { animation: 'flow-in 0.8s ease-out both 0.6s' } : { opacity: 0 }}
         >
-          Kerékpáros, gyalogló, futó és kalandtúrák gondosan tervezett útvonalakon – szakértő
+          Kerékpáros, gyalogló, futó és kalandtúrák gondosan tervezett útvonalakon - szakértő
           vezetőkkel, felejthetetlen természeti élményekkel.
         </p>
         <div
