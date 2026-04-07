@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
-import { Cookie } from 'lucide-react'
 
 const STORAGE_KEY = 'sth-cookie-consent'
 
@@ -37,9 +36,6 @@ export function CookieBanner() {
       className="fixed bottom-4 left-4 right-4 md:left-auto md:right-6 md:max-w-md z-50 bg-card border border-border rounded-2xl shadow-2xl p-5 animate-flow-in"
     >
       <div className="flex items-start gap-3 mb-4">
-        <span className="mt-0.5 shrink-0 w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center">
-          <Cookie className="w-5 h-5 text-primary" />
-        </span>
         <div>
           <p className="font-serif font-semibold text-foreground mb-1">Cookie-k</p>
           <p className="text-sm text-muted-foreground leading-relaxed">
